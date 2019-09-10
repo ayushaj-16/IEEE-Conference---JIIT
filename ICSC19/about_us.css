@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    margin: 0px;
+    width: 100%;
+    height: 200px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+}
+
+.about{
+    margin: 3% ;
+   height: 60%;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    font-family: 'Cabin', arial, sans-serif;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}
+
+.about .name{
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.about .amn{
+    text-align: left;
+    margin-top: 2%;
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 3.5%;
+}
+
+.about p{
+    text-align: justify;
+    color: #404040;
+    font-size: 15px;
+}

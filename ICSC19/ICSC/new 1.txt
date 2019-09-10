@@ -1,0 +1,2 @@
+//<?php echo $desc[$_GET["i"]]; ?>cut
+<?php echo $images[$_GET["i"]]; ?>cut1

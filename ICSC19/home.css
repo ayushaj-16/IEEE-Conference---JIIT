@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    width: 100%;
+    height: 750px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+}
+
+#container{
+    margin:0px 1%;
+    height: 100%;
+}
+
+
+/*
+.img{
+    margin: 3% auto 2% ;
+    width: 84%;
+    height: 55%;
+    background-image: url('banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}*/
+
+.text1{
+    
+    text-align: left;
+    color:#404040;
+    margin: 0 auto 5%;
+}
+
+.text1 p{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text1 h4{
+    font-weight: 2000;
+    font-size: 18px;
+}
+
+
+
+.about{
+    margin: 0px;
+   height: 60%;
+    /*width: 60%;*/
+    position: relative;
+    /*left: 20%;*/
+    font-family: 'Cabin', arial, sans-serif;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}
+
+.about .amn{
+    text-align: justify;
+    margin-top: 2%;
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 3.5%;
+}
+
+.about p{
+    text-align: justify;
+    color:#404040;
+    font-size: 15px;
+}
+
+.hr1{
+ position: absolute;
+    top: 132%;
+    /*width: 80%;*/
+    left: 10%;
+}
+
+
+.context{
+    display: flex;
+    justify-content: space-around;
+      flex-wrap: wrap;
+}
+
+.data{
+    width: 40%;
+    margin: 0px 1.5%;
+    height: 12%;
+    justify-content: space-around;
+    margin-bottom: 35px;
+}
+
+.context .data  h3{
+    font-weight: 100;
+    text-align: center;
+    margin: 3px 0px ;
+}
+
+.context .data p{
+    text-align: center;
+    color: grey;
+    font-size: 14px;
+}
+
+.about1{
+    margin: 3% auto 0px;
+   height: 60%;
+    width: 100%;
+    position: relative;
+    
+    font-family: 'Cabin', arial, sans-serif;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    width: 100%;
+    height: 0px;
+    text-align: left;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+}
+
+.about{
+    margin: 3% ;
+   height: 60%;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    font-family: 'Cabin', arial, sans-serif;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    text-align: left;
+    /*align:left;*/
+}
+
+.about .name{
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.about h3{
+    color: darkslategray;
+    text-align: left;
+    margin-top: 5%;
+    font-size: 17px;
+    letter-spacing: 0.1px;
+    word-break: 0.2px
+}
+
+.context{
+    width: 80%;
+    height: 60%;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.context p{
+    color: #404040;
+    font-size: 15px;
+    text-align: justify;
+    
+}
+
+.context .sp1{
+    color: orangered;
+}
