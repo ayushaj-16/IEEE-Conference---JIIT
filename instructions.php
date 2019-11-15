@@ -35,7 +35,7 @@
             <p>The conference is <font color="red" size="3"><b>Technically Co-sponsored by IEEE, IEEE UP Section and IEEE UP section Signal Processing & Computer Society Joint Chapter.</b></font>
             You are cordially invited to submit your original research contributions in this conference. Papers will be reviewed by renowned experts in their field.</p>
             
-            <p><b>The submitted papers will be scrutinized through a double blind peer review process.</b><br>Thus, all the contributors are strictly advised not to include any name or self-citation.</p>
+            <p><b>The submitted papers will be scrutinized through a double blind peer review process.<br><font color="red">Thus, all the contributors are strictly advised not to include any author's name.</font></b></p>
             <p>Only the registered author with full registration fees should present the paper.</p>
 
 <!--            <p><b>All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings.</b></p>

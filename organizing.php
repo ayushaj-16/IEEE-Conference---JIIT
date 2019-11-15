@@ -86,7 +86,7 @@ table.reg_table td, th{
 </tr><tr>
   <td>Shamim Akhter</td>
   <td>Madhu Jain</td>
-  <td>Parul Puri</td>
+  <td>Neeti Singh</td>
 </tr><tr>
   <td>Pankaj Kumar Yadav</td>
   <td>Kapil Dev Tyagi</td>
@@ -165,8 +165,12 @@ table.reg_table td, th{
   <td>Ankit Garg</td>
 </tr><tr>
   <td>Deepak Kumar</td>
-  <td></td>
+  <td> Kapil Dev Tyagi</td>
   <td>Atul Kumar</td>
+</tr><tr>
+  <td>B.Suresh</td>
+  <td>Sajal Agarwal</td>
+  <td>Nisha Venkatesh</td>
 </tr>
 </table>
 

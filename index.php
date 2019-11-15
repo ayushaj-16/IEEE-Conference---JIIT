@@ -107,10 +107,10 @@ setInterval(blinker, 1000);
     <div>
     	<marquee>
     		<h3>
-    			<font color="red">Applied for technically sponsorship by IEEE, IEEE UP Section and IEEE UP Section Signal Processing & Computer Society Joint Chapter.</font>
+    			<font color="red">Technically Co-sponsored by IEEE, IEEE UP Section and IEEE UP section Signal Processing & Computer Society Joint Chapter.</font>
     			<br>&emsp;
-<!--    			<font size="4">All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings.</font>
--->    		</h3>
+   			<font size="4">All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings.</font>
+    		</h3>
     	</marquee>
     </div>
 
@@ -129,11 +129,45 @@ setInterval(blinker, 1000);
        <br>
         <h2 >ICSC-2020</h2>
         <br>
-        <p>Signal processing consists of representation and transformation of signals and the information that they carry. Over the years, signal processing has immensely developed to provide phenomenal growth in the area of microchips, digital systems and computer hardware.</p><br/>
-	<p>The applications of signal processing are vast and interdisciplinary-ranging from engineering to economics and astronomy to biology. The research in areas such as signal coding and de-noising have paved the path for these advancements.</p><br/>
-	<p>Recent decade has witnessed major revolution in communication and processing of digital media. As a consequence, solution to major problems in processing, transmission and reception have made signal processing an integral part of modern electronic and communication systems. Communication on the other hand plays major role in our day to day life. The communication technology helps in the advancement of modern systems to meet our need of efficient exchange of ideas. The current research includes the areas of cognitive radio and IOT.</p><br/>
-	<p>There is a need for providing a forum to scientists and researchers to discuss and put forward their ideas and research findings with the co-researchers from all over the world. ICSC 2020 will provide an opportunity to highlight recent developments and to identify emerging and future areas of growth in these fields. It will further give impetus to the researchers for proposing novel efficient techniques.</p><br/>
-	<p>Keynote speakers with their vast research experience in various research fields will generate interest among participants for development of signal processing and communication engineering technology. With the participation of several experts and their diverse areas of research, it is expected that the conference will help in meeting the future challenges of industry, academia and research.</p>      
+        <div>
+          <p>Signal processing consists of representation and transformation of signals and the information that they carry. Over the years, signal processing has immensely developed to provide phenomenal growth in the area of microchips, digital systems and computer hardware.</p><br/>
+          <p>The applications of signal processing are vast and interdisciplinary-ranging from engineering to economics and astronomy to biology. The research in areas such as signal coding and de-noising have paved the path for these advancements.</p><br/>
+          <p>Recent decade has witnessed major revolution in communication and processing of digital media. As a consequence, solution to major problems in processing, transmission and reception have made signal processing an integral part of modern electronic and communication systems. Communication on the other hand plays major role in our day to day life. The communication technology helps in the advancement of modern systems to meet our need of efficient exchange of ideas. The current research includes the areas of cognitive radio and IOT.</p><br/>
+          <p>There is a need for providing a forum to scientists and researchers to discuss and put forward their ideas and research findings with the co-researchers from all over the world. ICSC 2020 will provide an opportunity to highlight recent developments and to identify emerging and future areas of growth in these fields. It will further give impetus to the researchers for proposing novel efficient techniques.</p><br/>
+          <p>Keynote speakers with their vast research experience in various research fields will generate interest among participants for development of signal processing and communication engineering technology. With the participation of several experts and their diverse areas of research, it is expected that the conference will help in meeting the future challenges of industry, academia and research.</p>              
+        </div>
+        
+        <div>
+
+        </div>
+          <center>
+            <p style="
+              color: blue;
+              margin-left: 150px;
+              margin-top: 10px;">
+              <b>Technically Co-sponsored by</b>
+            </p>
+          </center>
+        <div>
+          <p>
+            <img src="img/IEEE_logo_up.png" class="img-responsive"
+              style="
+                margin-left: 0px;
+                height: 80px;
+                margin-top: 20px;
+                " 
+            />
+
+            <img src="img/technical_co_sponsor.jpg" class="img-responsive"
+              style="
+                margin-left: 300px;
+                margin-bottom: 5px;
+                margin-top: -70px;
+                height: 80px;
+                "
+            />
+          </p>
+        </div>
     </div>
 
     <br>
@@ -162,11 +196,11 @@ setInterval(blinker, 1000);
                 <td>Final Paper Submission</td>
                 <td>: February 3, 2020</td>
             </tr>
-<!--            <tr>
+           <tr>
               <td>Link For Paper Submission</td>
-              <td>: Submit papers online <a href="https://edas.info/N25354">here</a></td>
+              <td>: &nbsp &nbsp &nbsp &nbsp<a href='https://edas.info/N26221'>EDAS</a></td>
             </tr>
--->
+
         </table>
         
         <center><h3>Conference Organizers</h3></center>

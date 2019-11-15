@@ -1,40 +1,99 @@
 <div class="row">
-  <div class="col-sm-2"><center><img src="img/jaypee_logo.jpeg" class="img-responsive" style="margin-top: 20px; margin-bottom: 20px"></center></div>
-  <div class="col-sm-8"><center>
-  <center><h4 style="text-align: center;
-    color:black; margin-top: 30px; font-size: 22px; color: #8A0A25;">6<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION</h1></center>
-    <h4 style="text-align: center;
-    color:#404040;margin-top: 10px; vertical-align: middle; font-size: 23px;">(ICSC-2020)<br/><br>March 5<sup>th</sup>-7<sup>th</sup>, 2020</h1></center>
-      
-    <center><h4 style="text-align: center;
-    color:#404040;margin-top: 10px; font-size: 18px;">Organized by ECE Department</h4></center>
-    
-    <center><h4 style="text-align: center; color:#404040;margin-top: 10px; font-size: 18px;">Jaypee Institute of Information Technology, Noida (INDIA)</h4></center>
-    <center><h4 style="text-align: center; color:#404040;margin-top: -10px; font-size: 15px;"><marquee><b>Deemed To be University Under Section 3 of UGC Act 1956</b></marquee></h4></center>
-    <br>
+
+  <div class="col-sm-3">
+    <center>
+      <img src="img/jaypee_logo.jpeg" class="img-responsive"
+        style="
+          margin-top: 50px;
+          margin-bottom: 20px;
+          height: 100;
+          margin-left: -80px;
+          "
+      />
+    </center>
   </div>
-<!--  <div class="col-sm-2">
-    <center><h4 style="text-align: center; margin-top: 50px; vertical-align: middle; font-size: 10px; color: #0000ff">Technically Co-Sponsored By:</h1>
-    <img src="img/IEEE_logo.png" class="img-responsive" style="margin-top: -10px; margin-left: -20px;"></center></div>
-  -->
-<div class="col-sm-2">
-  <center>
-    <h4 style="text-align: left; color:#0000ff;margin-top: 30px; font-size: 14px;">Technically Co-Sponsored By</h4>
-  </center>
-  <center>
-    <h4 style="text-align: center; margin-top: 15px; vertical-align: middle; font-size: 10px; color: #0000ff"></h4>
-      <img src="img/IEEE_logo_up.png" class="img-responsive" style="margin-top: -10px; margin-left: -15px;"><br><b>Technically Co-sponsored by IEEE, IEEE UP Section and IEEE UP section Signal Processing & Computer Society Joint Chapter.</b>
-  </center>
-<!--
-  <center>
-    <h4 style="text-align: center; margin-top: 15px; vertical-align: middle; font-size: 10px; color: #0000ff"></h4><br><b>Applied for Technical Sponsorship by IEEE, IEEE UP Section and IEEE UP section Signal Processing & Computer Society Joint Chapter.</b>
-  </center>
--->
-</div>
+
+  <!-- <div class="col-sm-9">
+    <div class="row">
+      <div class="col-sm-4">
+        <center>
+          <img src="img/IEEE_logo_up.png" class="img-responsive"
+            style="
+              margin-top: 18px;
+              margin-left: -160px;
+              height: 80px;
+              " 
+          />
+        </center>
+      </div>
+
+      <div class="col-sm-4">
+        <centre>
+          <img src="img/IEEE_logo_hq.png" class="img-responsive"
+            style="
+              margin-top: 18px;
+              margin-left: 40px;
+              margin-bottom: 5px;
+              height: 80px;
+              " />
+        </centre>
+      </div>
+
+      <div class="col-sm-4">
+        <centre>
+          <img src="img/technical_co_sponsor.jpg" class="img-responsive"
+            style="
+              margin-top: 18px;
+              margin-left: 90px;
+              margin-bottom: 5px;
+              height: 80px;
+              " />
+        </centre>
+      </div>
+    </div> -->
+
+    <div class="col-sm-6">
+      <center>
+        <div style="margin-left: 0px">
+          <h4 style="text-align: center; color:black; margin-top: 30px; font-size: 20px; color: #8A0A25;">
+            6<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION
+          </h4>
+
+          <h4 style="text-align: center; color:#404040;margin-top: 10px; vertical-align: middle; font-size: 21px;">
+            (ICSC-2020)<br/><br>March 5<sup>th</sup>-7<sup>th</sup>, 2020
+          </h4>
+        
+          <h4 style="text-align: center; color:#404040;margin-top: 10px; font-size: 16px;">
+            Organized by ECE Department
+          </h4>
+
+          <h4 style="text-align: center; color:#404040;margin-top: 10px; font-size: 16px;">
+            Jaypee Institute of Information Technology, Noida (INDIA)
+          </h4>
+
+          <h4 style="text-align: center; color:#404040;margin-top: -10px; font-size: 15px;">
+            <marquee><b>Deemed To be University Under Section 3 of UGC Act 1956</b></marquee>
+          </h4>
+        </div>
+      </center>
+    </div>
+
+    <div class="col-sm-3">
+      <centre>
+          <img src="img/IEEE_logo_hq.png" class="img-responsive"
+            style="
+              margin-top: 70px;
+              margin-left: 60px;
+              margin-bottom: 5px;
+              height: 80px;
+              " />
+        </centre>
+    </div>
+  </div>
 
 </div>
 
-<nav class="navbar navbar-default " style="margin-bottom: 0px !important;">
+<nav class="navbar navbar-default sticky-top" style="margin-bottom: 0px !important;">
   <div class="container">
 
     <div class="navbar-header">
@@ -53,7 +112,7 @@
         <li class="dropdown" style="margin-left: 20px;z-index: 50;"><a class="dropdown-toggle" data-toggle="dropdown" href="#">CALL FOR PAPERS<span class="caret"></span></a>
           <ul class="dropdown-menu" style="z-index: 50;">
             <li><a href="instructions.php">Instructions</a></li>
-            <li><a href="coming_soon.php" target="blank">Paper Submission</a></li>
+            <li><a href="https://edas.info/N26221" target="blank">Paper Submission</a></li>
             <li><a href="guidelines.php">Author Guidelines &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
           </ul>
         </li>

@@ -105,7 +105,15 @@ setInterval(blinker, 1000);
      <!-- <div class="img"><img src="banner.jpg" width="100%"></div>  -->
    
     
-    <div><marquee><h3><font color="red">Technically Co-sponsored by IEEE, IEEE UP Section and IEEE UP Section Signal Processing & Computer Society Joint Chapter.</font><br>&emsp;<font size="4">All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings.</font><br>&emsp;&emsp;<font style="color: #ff0000" size = "4">Extended Date of Full Paper Submission: January 17, 2019</font></h3></marquee></div>
+    <div>
+      <marquee>
+        <h3>
+          <font color="red">Technically Co-sponsored by IEEE, IEEE UP Section and IEEE UP Section Signal Processing & Computer Society Joint Chapter.</font><br>&emsp;
+          <font size="4">All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings.</font><br>&emsp;&emsp;
+          <font style="color: #ff0000" size = "4">Extended Date of Full Paper Submission: January 17, 2019</font>
+        </h3>
+      </marquee>
+    </div>
 
     <br>
 

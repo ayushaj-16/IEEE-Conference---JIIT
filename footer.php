@@ -36,16 +36,26 @@
 <div class="col-sm-3"><center><h4>Conference Sponsors</h4><hr style="margin-left: 20px; margin-right: 10px"><img src="img/jaypee_logo.jpeg" style="margin: 20px;"></center></div>
 
 
-<div class="col-sm-2" style="position: relative    font: 'Cabin',sans-serif;  word-spacing: 1px;  letter-spacing: 1px;"><center>
-	<h4>Register</h4>
-	<hr style="margin-left: 20px; margin-right: 10px">
-	<br>
-<!--        <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a href="registration.php"><button class="btn btn-success" style="display: flex; justify-content: center ">Register Now</button></a></div>
--->
-        <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a href="coming_soon.php"><button class="btn btn-success" style="display: flex; justify-content: center ">Coming Soon</button></a></div>
-</center></div>
+<div class="col-sm-2" style="position: relative    font: 'Cabin',sans-serif;  word-spacing: 1px;  letter-spacing: 1px;">
+	<center>
+		<h4>Register</h4>
+		<hr style="margin-left: 20px; margin-right: 10px">
+		<br>
+       <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
+            <a href="registration.php">
+				<button class="btn btn-success" style="display: flex; justify-content: center ">Register Now</button>
+			</a>
+		</div>
+
+								<!-- Comming Soon Button  (Used when registration Link is not open) -->
+        <!-- <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
+            <a href="coming_soon.php">
+				<button class="btn btn-success" style="display: flex; justify-content: center ">Coming Soon</button>
+			</a>
+		</div> -->
+
+	</center>
+</div>
 
 <div class="col-sm-3" style="position: relative    font: 'Cabin',sans-serif;  word-spacing: 1px;  letter-spacing: 1px;"><center>
 	<h4>Brochure</h4>
@@ -75,8 +85,12 @@
 
 </div>
 <div style="padding-bottom: 20px">
-	<center><h5>Copyright © JIIT </h5> </center>
-<center>Design and Developed by <a href="https://www.facebook.com/ahjn20">Avinash Jain</a></center>	
+	<center>
+		<h5>Copyright © JIIT </h5>
+	</center>
+	<center>
+		Design and Developed by <a href="https://www.facebook.com/ahjn20">Avinash Jain </a>and 
+		<a href="https://www.linkedin.com/in/keshav-bathla-b517a2152/">Keshav Bathla</a></center>	
 </div>
 
 </footer>

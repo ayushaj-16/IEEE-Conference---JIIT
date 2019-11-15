@@ -29,20 +29,19 @@
         <hr>
         <div class="col-sm-9">
         <ol>
-            <li>All Selected will be published by IEEE as a proceedings book volume.</li><br>
-            <li>Submissions should strictly follow the <a href="IEEE_template_A4.doc">IEEE format</a>.</li><br>
+            <li>Submissions should strictly follow the <a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank">IEEE format</a>.</li><br>
+            <li>The submitted papers will be scrutinized through a <font size="4"><b>double blind peer review</b></font> process. Thus, all the contributors are strictly advised not to include any mention of author's name. Use the third person to refer to work the Authors have previously undertaken, e.g. replace any phrases like “as we have shown before” with “… has been shown before [XYZ, 2007]” </li><br>
             <li>Do not put page numbers in the manuscript.</li><br>
-            <li>Do not include citations of unpublished work.</li><br>
-            <li>The conference will adhere to accepted stringent norms as regards plagiarism. Authors are advised to use standard software’s to check similarity prior to loading their work. Rejection of submission without review can be on the basis of high similarity.</li><br>
+            <li><font color="#FF0000">Authors are instructed to submit their paper via EDAS submission system. Authors need to upload the details of all co-authors on the <a href='https://edas.info/N26221'>EDAS</a> portal in the same order as they appear in the paper. Failing so may lead to rejection of the paper.</font></li><br>
+            <li>The conference will adhere to accepted stringent norms as regards plagiarism. Authors are advised to use standard software’s to check similarity prior to loading their work. Rejection of submission without review can be on the basis of high similarity. The maximum similarity allowed is less than or equal to 20% only.</li><br>
             <li>All analysis on the basis graphs etc should be supported with data computed through analytical work or based on experimental results. Any ambiguity on the data analysed to be accepted will be at the discretion of reviewers. Reviewer(s) may recommend for major revision or reject the paper.</li><br>
             <li>In case of major revision the revised paper has to be supported with a compliance report. Compliance report must highlight the original submission and the revised re submission. </li><br>
-            <li>Reviewer(s) decision will be final and the General Chair will not entertain any query on the reason of non acceptance of paper(s).</li><br>
-            <li>All authors must strictly adhere to the format and time schedule as mentioned in the conference website.</li><br>
-            <li><font color="#FF0000">Authors are instructed to submit their paper via EDAS submission system. Authors need to upload the details of all co-authors on EDAS portal in the same order as they appear in the paper. Failing so may lead to rejection of the paper.</font></li><br>
+            <li>No author can be added/ removed once the submitted paper is accepted.</li><br>
+            <li>Only registered author will be allowed to present the paper and certificate of presentation will be given to registered author only. </li><br>
             <li>Authors are required to use their official Email-ID wherever possible.</li><br>
             <li>Maximum two papers can be presented with one registration.</li><br>
-            <li>Papers are reviewed on the basis that they have not been submitted to any other conference at the same time (multiple submissions).</li></br>
-            <li>The author should cater to IEEE Plagiarism policy given at https://www.ieee.org/publications_standards/publications/rights/Section_822.html.</li><br>
+            <li>Papers submitted to ICSC 2020 should not have been submitted to any other conference or journal (multiple submissions).</li></br>
+            <li>The author should cater to IEEE Plagiarism policy given at <a href='https://www.ieee.org/publications_standards/publications/rights/Section_822.html'>https://www.ieee.org/publications_standards/publications/rights/Section_822.html.</li><br>
         </ol>
     </div>
     <div class="col-sm-3">
