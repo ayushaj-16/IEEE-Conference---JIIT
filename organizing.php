@@ -137,7 +137,7 @@ table.reg_table td, th{
   <td>Deeksha Chandola</td>
 </tr><tr>
   <td>Yogesh Kumar</td>
-  <td>Ritesh Sharma</td>
+  <td>Ritesh Kumar Sharma</td>
   <td>Ruby Beniwal</td>
 </tr><tr>
   <td>Amit Kumar Goyal</td>
@@ -169,6 +169,10 @@ table.reg_table td, th{
   <td>Atul Kumar</td>
 </tr><tr>
   <td>B.Suresh</td>
+  <td>Sajal Agarwal</td>
+  <td>Nisha Venkatesh</td>
+</tr><tr>
+  <td>Akansha Bansal</td>
   <td>Sajal Agarwal</td>
   <td>Nisha Venkatesh</td>
 </tr>

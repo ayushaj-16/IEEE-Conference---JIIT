@@ -56,7 +56,7 @@
       <center>
         <div style="margin-left: 0px">
           <h4 style="text-align: center; color:black; margin-top: 30px; font-size: 20px; color: #8A0A25;">
-            6<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION
+            2020 6<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION
           </h4>
 
           <h4 style="text-align: center; color:#404040;margin-top: 10px; vertical-align: middle; font-size: 21px;">

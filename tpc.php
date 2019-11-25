@@ -647,7 +647,27 @@
     <p>JIIT Noida</p>
     </div>
     <div class="data">
+    <h4><center>Dr. Abhishek Kashyap</center></h4>
+    <p>JIIT Noida</p>
+    </div>
+    <div class="data">
+    <h4><center>Dr. Bhagirath Sahu</center></h4>
+    <p>JIIT Noida</p>
+    </div>
+    <div class="data">
+    <h4><center>Dr. Ankit Garg</center></h4>
+    <p>JIIT Noida</p>
+    </div>
+    <div class="data">
+    <h4><center>Dr. Neetu Joshi</center></h4>
+    <p>JIIT Noida</p>
+    </div>
+    <div class="data">
     <h4><center>Dr. Sajal Agarwal</center></h4>
+    <p>JIIT Noida</p>
+    </div>
+    <div class="data">
+    <h4><center>Dr. Akansha Bansal </center></h4>
     <p>JIIT Noida</p>
     </div>
     <div class="data">
