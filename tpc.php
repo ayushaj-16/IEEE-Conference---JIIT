@@ -643,10 +643,6 @@
     <p>JIIT Noida</p>
     </div>
     <div class="data">
-    <h4><center>Dr. Neeti Singh</center></h4>
-    <p>JIIT Noida</p>
-    </div>
-    <div class="data">
     <h4><center>Dr. Abhishek Kashyap</center></h4>
     <p>JIIT Noida</p>
     </div>
@@ -679,7 +675,7 @@
     <p>JIIT Noida</p>
     </div>
     <div class="data">
-    <h4><center>Neetu Joshi</center></h4>
+    <h4><center>Dr. Ajay Kumar</center></h4>
     <p>JIIT Noida</p>
     </div>
     </div>

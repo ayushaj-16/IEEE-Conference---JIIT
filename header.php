@@ -112,6 +112,7 @@
         <li class="dropdown" style="margin-left: 20px;z-index: 50;"><a class="dropdown-toggle" data-toggle="dropdown" href="#">CALL FOR PAPERS<span class="caret"></span></a>
           <ul class="dropdown-menu" style="z-index: 50;">
             <li><a href="instructions.php">Instructions</a></li>
+            <li><a href="scope.php">Scope</a></li>
             <li><a href="https://edas.info/N26221" target="blank">Paper Submission</a></li>
             <li><a href="guidelines.php">Author Guidelines &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
           </ul>
