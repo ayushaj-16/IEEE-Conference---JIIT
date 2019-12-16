@@ -43,7 +43,7 @@
             <p><b>Important Dates:</b><br>
 <!--            <font style="color: #FF0000">Extended Date of Paper Submission: 15th January, 2019</font><br>
 -->
-            Last Date of Paper Submission: 18th November, 2019<br>
+            Last Date of Paper Submission: 16th December, 2019<br>
             Notification of Acceptance: 13th Jan, 2020<br>
             Camera Ready Paper Submission: 3rd Feb, 2020</p>
 

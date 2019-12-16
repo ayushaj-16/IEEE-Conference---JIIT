@@ -150,6 +150,23 @@
 </div>
 </div>
 
+<div class="col-sm-3">
+                <br>
+                <br>
+                <img src="http://web.iitd.ac.in/~manav/Manav_R_Bhatnagar_Photo.jpg" alt="" height="200px" width="150px">
+</div>
+<div class="col-sm-9">
+                <br>
+    <br>
+    <br>
+    <br>
+    <button class="collapsible"><h3>Manav R. Bhatnagar</h3><p>Indian Institute of Technology Delhi</button>
+<div class="content">
+  <p>Manav R. Bhatnagar (M’04–SM’13) received the M.Tech. degree in communications engineering from the Indian Institute of Technology (IIT) Delhi, New Delhi, India, in 2005, and the Ph.D. degree in wireless communications from the Department of Informatics, University of Oslo, Oslo, Norway, in 2008.,From 2008 to 2009, he was a Postdoctoral Research Fellow with the University Graduate Center (UNIK), University of Oslo. He held visiting appointments with the Wireless Research Group, IIT Delhi; the Signal Processing in Networking and Communications (SPiNCOM) Group, University of Minnesota Twin Cities, Minneapolis, MN, USA; the Alcatel-Lucent Chair, SUPELEC, France; the Department of Electrical Computer Engineering, Indian Institute of Science, Bengaluru, India; UNIK, University of Oslo; the Department of Communications and Networking, Aalto University, Espoo, Finland; and INRIA/IRISA Laboratory, University of Rennes, Lannion, France</p>
+  <p>He is currently a Professor with the Department of Electrical Engineering, IIT Delhi, New Delhi, India. He is also a Brigadier Bhopinder Singh Chair Professor there. His research interests include signal processing for multiple-input-multiple-output systems, cooperative communications, noncoherent communication systems, distributed signal processing for cooperative networks, multiuser communications, ultrawideband-based communications, free-space optical communication, cognitive radio, software-defined radio, power line communications, smart grid communications, physical layer security, molecular communications, and satellite communications.</p>
+  <p>Dr. Bhatnagar is a Fellow of the Institution of Engineering and Technology, U.K., the Indian National Academy of Engineering, the National Academy of Sciences, India, the Institution of Electronics and Telecommunication Engineers, India, and the Optical Society of India. He was a recipient of the NASI-Scopus Young Scientist Award 2016 in the engineering category and the Shri Om Prakash Bhasin Award in the field of Electronics and Information Technology in 2016. He was selected as an Exemplary Reviewer of the IEEE Communications Letters from 2010 to 2012, and the IEEE Transactions on Communications, in 2015. He was an Editor of the IEEE Transactions on Wireless Communications, from 2011 to 2014.</p>
+</div>
+</div>
 
 <!--
 <div class="col-sm-3">
