@@ -185,16 +185,16 @@ setInterval(blinker, 1000);
             </tr>
 -->
             <tr>
-                <td>Full Paper Submission </td>
-                <td>: December 16, 2019</td>
+                <td style="color: red"> Extended Full Paper Submission </td>
+                <td>: December 30, 2019</td>
             </tr>
             <tr>
                 <td>Notification of Acceptance </td>
-                <td>: January 13, 2020</td>
+                <td>: February 15, 2020</td>
             </tr>
             <tr>
                 <td>Final Paper Submission</td>
-                <td>: February 3, 2020</td>
+                <td>: February 17, 2020</td>
             </tr>
            <tr>
               <td>Link For Paper Submission</td>

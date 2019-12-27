@@ -38,9 +38,9 @@
             <p><b>All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings.</b></p>
 
             <p><b>Important Dates:</b><br>
-            Last Date of Paper Submission: 18th November, 2019<br>
-            Notification of Acceptance: 13th Jan, 2020<br>
-            Camera Ready Paper Submission: 3rd Feb, 2020</p>
+            <span style="color: red">Extended Full Paper Submission</span>: 16th December, 2019<br>
+            Notification of Acceptance: February 15, 2020<br>
+            Final Paper Submission: February 17, 2020</p>
 
 <!--            <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="https://edas.info/N25354">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
 -->

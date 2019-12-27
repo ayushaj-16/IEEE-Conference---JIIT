@@ -43,13 +43,14 @@
             <p><b>Important Dates:</b><br>
 <!--            <font style="color: #FF0000">Extended Date of Paper Submission: 15th January, 2019</font><br>
 -->
-            Last Date of Paper Submission: 16th December, 2019<br>
-            Notification of Acceptance: 13th Jan, 2020<br>
-            Camera Ready Paper Submission: 3rd Feb, 2020</p>
+            <p>
+            <span style="color: red">Extended Full Paper Submission</span>: 16th December, 2019<br>
+            Notification of Acceptance: February 15, 2020<br>
+            Final Paper Submission: February 17, 2020</p>
 
-<!--            <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="https://edas.info/N25354">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
--->
-            <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="coming_soon.php">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
+           <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="https://edas.info/N26221">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
+
+            <!-- <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="coming_soon.php">here</a>. Unregistered authors should first create an account on EDAS to log on.</p> -->
 
             <p><b>Previous Conferences:</b><br>
             To know more about the previous editions of ICSC, please click on <a href="ICSC19/ICSC/icsc2016/icsc2013/">ICSC-2013</a>, <a href="ICSC19/ICSC/icsc2016/icsc2015/">ICSC-2015</a>, <a href="ICSC19/ICSC/icsc2016/">ICSC-2016</a>, <a href="ICSC19/ICSC/">ICSC-2018</a>, <a href="ICSC19">ICSC-2019</a>.</p>

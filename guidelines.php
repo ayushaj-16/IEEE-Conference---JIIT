@@ -66,7 +66,7 @@
 
                 <p>
                     <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-                        <a style="text-decoration: none;" href="IEEE_template_LaTeX.zip" download="IEEE_template_LaTeX.zip">
+                        <a style="text-decoration: none;" href="IEEE_template__LaTeX.zip" download="IEEE_template__LaTeX.zip">
                             <button class="btn btn-success" style="display: flex; justify-content: center ">Download IEEE Paper Format (LaTeX)</button>
                         </a>
                     </div>
