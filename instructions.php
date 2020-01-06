@@ -44,7 +44,7 @@
 <!--            <font style="color: #FF0000">Extended Date of Paper Submission: 15th January, 2019</font><br>
 -->
             <p>
-            <span style="color: red">Extended Full Paper Submission</span>: 16th December, 2019<br>
+            <span style="color: red">Extended Full Paper Submission</span>: January 13, 2020<br>
             Notification of Acceptance: February 15, 2020<br>
             Final Paper Submission: February 17, 2020</p>
 
