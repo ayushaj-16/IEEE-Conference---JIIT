@@ -142,9 +142,9 @@
     <br>
     <br>
     <br>
-    <button class="collapsible"><h3>Mrs. Sellammal Shekhar</h3><p>Sc’G’, Associate Director, DRDO Headquartersi</button>
+    <button class="collapsible"><h3>Mrs. Sellammal Shekhar</h3><p>Sc’G’, Associate Director, DRDO Headquarters</button>
   <div class="content">
-    <p>Mrs. Sellammal Shekhar obtained Bachelor’s degree in Electronics & Communication Engineering from University of Jodhpur, MTech from IIT Delhi and M S in Cyber Law & Cyber Security from National Law University, Jodhpur.</p>
+    <p>Mrs. Sellammal Shekhar obtained Bachelor’s degree in Electronics & Communication Engineering from University of Jodhpur, MTech from IIT, Delhi and M S in Cyber Law & Cyber Security from National Law University, Jodhpur.</p>
     <p>After a small tenure in ISRO, Space Applications Centre, Ahmedabad, she joined DRDO in Nov’ 86. Worked at different DRDO Laboratories</p>
     <p>1. Defence Electronics Research Laboratory, Hyderabad</p>
     <p>2. Analytical Studies Group, Delhi</p>
@@ -186,7 +186,7 @@
     <br>
     <button class="collapsible"><h3>Prof. Rajiv Saxena</h3><p>Jaypee University, Anoopshahr</button>
 <div class="content">
-  <p>Prof. Rajiv Saxena obtained B.E. in Electronics and Telecommunication Engineering and M.E. in Digital Techniques and Data Processing. He joined IIT, Roorkee (erstwhile UOR, Roorkee), as a QIP Research Fellow, towards his Doctoral Degree Program. The Ph. D. degree was conferred on him in Electronics and Computer Engineering. During the research tenure, Prof. Saxena suggested a few corrections in one benchmark paper of Dr. A. Papoulis (a veteran in the field of Communication Engineering) published in the year 1973. These corrections were appreciated and accepted by Dr. A. Papoulis himself.</p>
+  <p>Prof. Rajiv Saxena obtained B.E. in Electronics and Telecommunication Engineering and M.E. in Digital Techniques and Data Processing. He joined  , Roorkee (erstwhile UOR, Roorkee), as a QIP Research Fellow, towards his Doctoral Degree Program. The Ph. D. degree was conferred on him in Electronics and Computer Engineering. During the research tenure, Prof. Saxena suggested a few corrections in one benchmark paper of Dr. A. Papoulis (a veteran in the field of Communication Engineering) published in the year 1973. These corrections were appreciated and accepted by Dr. A. Papoulis himself.</p>
   <p>He is associated with the Jaypee Education System since November 2006. He was Professor and Head, Department of Electronics and Communication Engineering at Jaypee University of Engineering and Technology, Raghogarh, Guna (MP). Prior to current assignment, he was a Director of Jaypee University Anoopshahr since May 2014.</p>
   <p>Prof. Saxena has supervised Twenty Ph.D. candidates in the area of wireless, cellular, mobile and digital communication, digital signal processing, digital image processing and application of DSP tools in electronic systems and bio-medical engineering. Prof. Saxena has published about 100 research articles in refereed journals of national and international repute. Best paper award of IETE was also conferred on him in the year 2008. Prof. Saxena has also supervised about TWENTY FIVE PG Dissertations and many UG Projects in the areas of his interests.</p>
 </div>
