@@ -228,7 +228,7 @@ setInterval(blinker, 1000);
 -->
             <tr>
                 <td style="color: red"> Final Extended Full Paper Submission </td>
-                <td>: January 17, 2020</td>
+                <td>: January 20, 2020</td>
             </tr>
             <tr>
                 <td>Notification of Acceptance </td>
