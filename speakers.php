@@ -141,6 +141,54 @@ antennas and its feed systems and metasurface antennas.
 </div>
 
 <div class="col-sm-3">
+                <img src="img/deepak.jpg" alt="" height="200px" width="150px">
+                <br>
+                <br>
+                <br>
+</div>
+<div class="col-sm-9">
+    <br>
+    <br>
+    <button class="collapsible"><h3> Mr. Deepak Mathur </h3><p>Director of IEEE Region 10 (Asia-Pacific Region)</p>
+    </button>
+<div class="content">
+<br>
+<p>Deepak Mathur is Director of IEEE Region 10 (Asia-Pacific Region). IEEE (the Institute of Electrical and Electronics Engineers) is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity.</p>
+<p>Deepak, former Chief General Manager of ONGC (India’s premier public sector company engaged in exploration and exploitation of hydrocarbons), has more than 37-years of professional experience in fields of electronics, telecommunication, IT infrastructure and has held various engineering and managerial positions. </p>
+<p>He was associated with planning and execution of several industrial projects like SCADA, on-line/real-time monitoring systems, development of IT Infrastructure, Wi-Max based broadband wireless access system, GPS/GSM based vehicle tracking system etc. and has led teams of IT professionals and multi-disciplinary teams. He has also experience of managing Hi-Tech (Oil) Well Logging Systems which are to analyze the properties of subsurface to explore the possibility of hydrocarbons.</p>
+<p>He has also served in many leadership roles in IEEE at Section, Council, Region, MGA (Member Geographic Activities) and was Member of Board of Governors of IEEE Society on Social Implications of Technology in 2013-2015 and Chair of IEEE India Council in 2015-2016.</p>
+<p>Deepak received his Bachelor of Engineering degree in Electronics and Communications from Indian Institute of Technology, Roorkee, and has a Masters in Business Administration. Deepak has also completed ‘Advance Management Program’ from IIM, Calcutta.</p>
+<p>Deepak is also member of IEEE-HKN or Eta Kappa Nu (ΗΚΝ), which is the international honour society of IEEE. "The organization promotes excellence in the profession and in education through an emphasis on scholarship, character, and attitude." Membership is a lifelong designation for individuals who have distinguished themselves as students or as professionals in electrical engineering, computer engineering, computer science, and other fields of IEEE interest.</p>
+
+</div>
+</div>
+
+
+
+<div class="col-sm-3">
+                <img src="img/parth.jpeg" alt="" height="200px" width="150px">
+                <br>
+                <br>
+                <br>
+</div>
+<div class="col-sm-9">
+    <br>
+    <br>
+    <button class="collapsible"><h3>Prof. Parthasarathi Chakrabarti</h3><p>Indian Institute of Engineering Science & Technology, Shibpur</p>
+    </button>
+<div class="content">
+<br>
+<p>Parthasarathi Chakrabarti, Professor (HAG) in the Department of Electronics Engineering, IIT(BHU) and former Director of NIT Allahabad (2011-2016) took over the charge as the first full-term Director of the Indian Institute of Engineering Science & Technology (IIEST), Shibpur on May 10, 2018. He has been on the additional charge of the Director, NIT Patna during 2011-12.</p>
+<p>Prof. Chakrabarti has made a significant contribution to experimental and theoretical research in the areas of Microelectronics and Photonics. He has been the Coordinator (2005-11) of the Centre for Research in Microelectronics (CRME), Department of Electronics Engineering, IIT(BHU), and the founder Coordinator of Micro-Electro-Mechanical Systems (MEMS) Centre at IIT(BHU). He has been the Head of the Department of Electronics Engineering, IIT(BHU) during 2006-2009. He established two dedicated research Centres i.e., the Centre for Interdisciplinary Research (CIR) for carrying out multi-disciplinary research and the Centre for Medical Diagnostics & Research (CMDR) for promoting research in the field of Life Sciences with emphasis on human health care at NIT Allahabad. His research group has strong collaborations with the Optoelectronics Research Group, Lancaster University, Lancaster UK, and the Nanomaterials research group, University of New South Wales, Australia. More than 20 students including one foreign student under the ICCR Exchange Program of the Govt. of India have been awarded a Ph.D. degree under his supervision. At present, two more students are working towards a Ph.D. under his supervision. He has successfully completed a number of R & D projects sponsored by government funding agencies such as DST, CSIR, DRDO, etc.</p>
+<p>Prof. Chakrabarti has published over 300 research papers in leading technical journals and in Conference Proceedings. He holds one patent right and filed 3 more patents. He has authored three textbooks and edited five Proceedings of National and International Conferences. He has organized a number of International Conferences and delivered numerous Key-note speeches and Invited Talks in International Conferences in India and abroad. He has been a regular reviewer of leading technical journals and listed in the Golden List of Reviewers of IEEE Transactions several times. He served on the Editorial Board of the Journal of Electronic Materials-Springer as Associate Editor during 2015-2020.</p>
+<p>Professor Chakrabarti obtained his B.Tech. and M.Tech. Degrees from the University of Calcutta, Kolkata in 1980 and 1982 respectively. He earned his Ph.D. degree in Electronics Engineering from the Indian Institute of Technology (BHU). He is a recipient of the Indian National Science Academy (INSA) Visiting Fellowship and SERC (Science & Engineering Research Council), Department of Science and Technology, Govt. of India. He received the Senior Visiting Fellowship of the Engineering and Physical Sciences Research Council (EPSRC), the UK for conducting collaborative research with the Optoelectronics Research Group, Lancaster University during 2002-2003. He has been a part of the delegation sponsored to visit Indiana University, Indianapolis, USA in 2013 under the Leadership Development Program organized by the Indian Institute of Management (IIM) Lucknow.  Prof. Chakrabarti is a Fellow of the Institution of Engineers and a Senior Member of IEEE, USA. He has been awarded Amity Academic Excellence Award-2015.  Prof. Chakrabarti is a recipient of the MRSI Distinguished Lecturer-ship Award 2019-20.</p>
+
+</div>
+</div>
+
+
+
+<div class="col-sm-3">
                 <img src="img/ram.jpg" alt="" height="200px" width="150px">
                 <br>
                 <br>
@@ -181,34 +229,6 @@ antennas and its feed systems and metasurface antennas.
 
 
 <div class="col-sm-3">
-                <img src="img/singh.jpeg" alt="image" height="200px" width="150px">
-                <br>
-                <br>
-                <br>
-</div>
-<div class="col-sm-9">
-    <br>
-    <br>
-    <button class="collapsible"><h3>Prof. Satish Kumar Singh</h3><p>IIIT Allahabad
-    </button>
-<div class="content">
-<br>
-
-<p>Dr. Satish Kumar Singh is with the Indian Institute of Information Technology Allahabad India, as an Associate Professor at the Department of Information Technology from 2013. Before joining the IIIT Allahabad, he served the Department of Electronics and Communication Engineering, Jaypee University of Engineering and Technology Guna, India from 2005 to 2012. He has about 16+ years of professional experience in various capacities. His areas of interest include Image Processing, Computer Vision, Biometrics, Deep Learning, and Pattern Recognition. Presently he is heading the Computer Vision and Biometrics Lab (CVBL) at IIIT Allahabad from 2015 onwards. His group is involved in the R&D of the Signal & Image Processing, Vision, and Biometrics Algorithms and Systems. He has supervised 6 PhDs and 34 Master's students in his research career and presently 9 Ph.D. and 6 Master Students are doing research in CVBL. Dr. Singh and his group published about 60 research articles in various IEEE/ACM Transactions, Journals, and International conferences of repute. He is the principal/co-principal investigator of many projects funded from various government funding agencies i.e. Ministry of Defense, Ministry of Education and Home Affairs Government of India. Dr. Singh is holding the responsibilities as Local Coordinator, Global Initiative of Academic Network by MoE, Government of India, Nodal Officer Scheme for Promotion of Academic and Research Collaboration Ministry of Human Resource and Development, Government of India, Convener Departmental Postgraduate Committee, and Associate Dean I/C Ranking and Accreditation, Library and e-Library. Dr. Singh is also involved in academic and research outreach activities and presently serving as Associate Editor IET Image Processing, Associate Editor International Journal of Pattern Recognition and Artificial Intelligence, Lead Guest Editor of Special Issue of Springer's Neural Computations and Applications on Computer Vision and Image Processing, Guest Editor of Special Issues of Springer's Nature Computer Science on Recent Trends in Computer Vision, Guest Editor of Special Issues of Springer's Nature Computer Science on Progress in Image Processing.
-
-
-<p>Dr. Singh is the senior member of IEEE Signal Processing Society, IEEE Computational Intelligence Society, IEEE Education Society, IEEE Photonics Society, IEEE Biometric Council, IEEE Sensor Council, and IEEE Systems Council. Presently Dr. Singh is Section Chair IEEE Uttar Pradesh Section (2021) and a member of IEEE India Council (2021). He also served as the Vice-Chair, Operations, Outreach and Strategic Planning of IEEE India Council (2020) & Vice-Chair IEEE Uttar Pradesh Section (2019 & 2020). Prior to that Dr. Singh was Secretary, IEEE UP Section (2017 & 2018), Treasurer, IEEE UP Section (2016 & 2017), Joint Secretary, IEEE UP Section (2015), Convener Web and Newsletters Committee (2014 & 2015). 
-
-
-
-<p>Dr. Singh is also the technical committee affiliate of IEEE SPS IVMSP and MMSP and presently the Secretary, IEEE Signal Processing Society Chapter of Uttar Pradesh Section. Dr. Singh is organizing many impactful events every year for the benefit of the SPS members, to name a few, IEEE SPS Distinguished Lectures in 2015, 16, and 19, IEEE SPS Meeting on Advances in Deep Architectures for Signal Image and Vision Application under the IEEE SPS Member-driven initiative in 2019 and ADASIVA-18/20/21. Dr. Singh was instrumental in successfully organizing the IEEE UP Section's Conference UPCON in 2015 as Conference Coordinator, IEEE Computer Society India Symposium 2017, and IEEE IC AISYWC 2017. Dr. Singh was the Conference Chair for 3rd IEEE CICT-2019, and General Chair, 4th IEEE TS Conference CICT-2020, 5th IAPR CVIP-2020, and 8th IEEE UPCON 2021. Dr. Satish is the reviewer of many reputed IEEE and ACM Transactions.
-
-</div>
-</div>
-
-
-
-<div class="col-sm-3">
                 <img src="img/rajiv.jpg" alt="" height="200px" width="150px">
                 <br>
                 <br>
@@ -226,6 +246,35 @@ antennas and its feed systems and metasurface antennas.
 <p>Prof. Saxena has supervised Twenty Ph.D. candidates in the area of wireless, cellular, mobile and digital communication, digital signal processing, digital image processing and application of DSP tools in electronic systems and bio-medical engineering. Prof. Saxena has published about 100 research articles in refereed journals of national and international repute. Best paper award of IETE was also conferred on him in the year 2008. Prof. Saxena has also supervised about TWENTY FIVE PG Dissertations and many UG Projects in the areas of his interests.
 </div>
 </div>
+
+
+
+<div class="col-sm-3">
+                <img src="img/singh.jpeg" alt="image" height="200px" width="150px">
+                <br>
+                <br>
+                <br>
+</div>
+<div class="col-sm-9">
+    <br>
+    <br>
+    <button class="collapsible"><h3>Prof. Satish Kumar Singh</h3><p>Indian Institute of Information Technology, Allahabad
+    </button>
+<div class="content">
+<br>
+
+<p>Dr. Satish Kumar Singh is with the Indian Institute of Information Technology Allahabad India, as an Associate Professor at the Department of Information Technology from 2013. Before joining the IIIT Allahabad, he served the Department of Electronics and Communication Engineering, Jaypee University of Engineering and Technology Guna, India from 2005 to 2012. He has about 16+ years of professional experience in various capacities. His areas of interest include Image Processing, Computer Vision, Biometrics, Deep Learning, and Pattern Recognition. Presently he is heading the Computer Vision and Biometrics Lab (CVBL) at IIIT Allahabad from 2015 onwards. His group is involved in the R&D of the Signal & Image Processing, Vision, and Biometrics Algorithms and Systems. He has supervised 6 PhDs and 34 Master's students in his research career and presently 9 Ph.D. and 6 Master Students are doing research in CVBL. Dr. Singh and his group published about 60 research articles in various IEEE/ACM Transactions, Journals, and International conferences of repute. He is the principal/co-principal investigator of many projects funded from various government funding agencies i.e. Ministry of Defense, Ministry of Education and Home Affairs Government of India. Dr. Singh is holding the responsibilities as Local Coordinator, Global Initiative of Academic Network by MoE, Government of India, Nodal Officer Scheme for Promotion of Academic and Research Collaboration Ministry of Human Resource and Development, Government of India, Convener Departmental Postgraduate Committee, and Associate Dean I/C Ranking and Accreditation, Library and e-Library. Dr. Singh is also involved in academic and research outreach activities and presently serving as Associate Editor IET Image Processing, Associate Editor International Journal of Pattern Recognition and Artificial Intelligence, Lead Guest Editor of Special Issue of Springer's Neural Computations and Applications on Computer Vision and Image Processing, Guest Editor of Special Issues of Springer's Nature Computer Science on Recent Trends in Computer Vision, Guest Editor of Special Issues of Springer's Nature Computer Science on Progress in Image Processing.
+
+
+<p>Dr. Singh is the senior member of IEEE Signal Processing Society, IEEE Computational Intelligence Society, IEEE Education Society, IEEE Photonics Society, IEEE Biometric Council, IEEE Sensor Council, and IEEE Systems Council. Presently Dr. Singh is Section Chair IEEE Uttar Pradesh Section (2021) and a member of IEEE India Council (2021). He also served as the Vice-Chair, Operations, Outreach and Strategic Planning of IEEE India Council (2020) & Vice-Chair IEEE Uttar Pradesh Section (2019 & 2020). Prior to that Dr. Singh was Secretary, IEEE UP Section (2017 & 2018), Treasurer, IEEE UP Section (2016 & 2017), Joint Secretary, IEEE UP Section (2015), Convener Web and Newsletters Committee (2014 & 2015). 
+
+
+
+<p>Dr. Singh is also the technical committee affiliate of IEEE SPS IVMSP and MMSP and presently the Secretary, IEEE Signal Processing Society Chapter of Uttar Pradesh Section. Dr. Singh is organizing many impactful events every year for the benefit of the SPS members, to name a few, IEEE SPS Distinguished Lectures in 2015, 16, and 19, IEEE SPS Meeting on Advances in Deep Architectures for Signal Image and Vision Application under the IEEE SPS Member-driven initiative in 2019 and ADASIVA-18/20/21. Dr. Singh was instrumental in successfully organizing the IEEE UP Section's Conference UPCON in 2015 as Conference Coordinator, IEEE Computer Society India Symposium 2017, and IEEE IC AISYWC 2017. Dr. Singh was the Conference Chair for 3rd IEEE CICT-2019, and General Chair, 4th IEEE TS Conference CICT-2020, 5th IAPR CVIP-2020, and 8th IEEE UPCON 2021. Dr. Satish is the reviewer of many reputed IEEE and ACM Transactions.
+
+</div>
+</div>
+
 
 
 
