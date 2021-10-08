@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ICSC-2020</title>
+    <title>ICSC-2021</title>
     <link rel="stylesheet" href="committees.css">
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -18,7 +18,8 @@
 <body>
      <?php
     include "header.php";
-    ?>
+    ?>     
+
     <div class="container" style="position: relative;  z-index: -1;">
     <div class="about">
         
@@ -45,7 +46,7 @@
   <td>
     <b>Organizing Secretary:</b>
     <br>
-    <a href="http://www.jiit.ac.in/dr-vikram-karwal">Dr. Vikram Karwal</a>
+    <a href="http://www.jiit.ac.in/dr-vikram-karwal">Dr.Jitendra Mohan</a>
     <br>Department of Electronics & Communication<br>
     JIIT Noida
   </td>
@@ -68,113 +69,118 @@ table.reg_table td, th{
 <table class="reg_table">
 <tr><td><br><br><br></td></tr>
 <tr>
-  <td>Jitendra Mohan</td>
   <td>Sajai Vir Singh</td>
   <td>Vineet Khandelwal</td>
+<td>Abhinav Gupta</td>
 </tr><tr>
-  <td>Abhinav Gupta</td>
   <td>Vivek Dwivedi</td>
   <td>Ashish Goel</td>
-</tr><tr>
   <td>Vijay Khare</td>
-  <td>Richa Gupta</td>
-  <td>Megha Agarwal</td>
 </tr><tr>
   <td>Jasmine Saini</td>
-  <td>Bhartendu Chaturvedi</td>
   <td>Alok Joshi</td>
+  <td>Bhartendu Chaturvedi</td>
 </tr><tr>
-  <td>Shamim Akhter</td>
-  <td>Madhu Jain</td>
-  <td>Neeti Singh</td>
-</tr><tr>
+  <td>Megha Agarwal</td>
+  <td>Richa Gupta</td>
+<td>Madhu Jain</td>
+</tr><tr>	
+  <td>Shamim Akhter	</td>
   <td>Pankaj Kumar Yadav</td>
+<td>Rahul Kaushik</td>
+</tr><tr>
+  
   <td>Kapil Dev Tyagi</td>
   <td>Garima Kapur</td>
+  <td>Satyendra Kumar</td>
 </tr><tr>
-  <td>Rahul Kaushik</td>
   <td>Archana Pandey</td>
   <td>Ashish Gupta</td>
-</tr><tr>
   <td>Kuldeep Baderia </td>
+</tr><tr>
+  
   <td>Bajrang Bansal</td>
   <td>Vimal Kumar Mishra</td>
-</tr><tr>
-  <td>Anand Aggarwal</td>
-  <td>Satyendra Kumar</td>
-  <td>Kaushal Nigam</td>
-</tr><tr>
-  <td>Saurabh Chaturvedi</td>
-  <td>Ekta Goel</td>
-  <td>Parul Arora</td>
-</tr><tr>
+   <td>Parul Arora</td>
+</tr><tr>		
+ 
   <td>Kirmender Singh</td>
+  <td>Kaushal Nigam</td>
+    <td>Saurabh Chaturvedi</td>
+</tr><tr>	
+
   <td>Reema Buddhiraja</td>
-  <td>Shruti Kalra</td>
-</tr><tr>
-  <td>Smriti Bhatnagar</td>
-  <td>Atul Kumar Srivastava</td>
-  <td>Neetu Singh</td>
-</tr><tr>
-  <td>Juhi Gupta</td>
-  <td>Bhawna Gupta</td>
-  <td>B. Suresh</td>
-</tr><tr>
-  <td>Monika</td>
-  <td>Vinay Anand Tikkiwal</td>
-  <td>Priyanka Kwatra</td>
-</tr><tr>
-  <td>Shradha Saxena</td>
-  <td>Ankur Bhardwaj</td>
-  <td>Vishal Narain Saxena</td> 
-</tr><tr>
   <td>Gaurav Verma</td>
-  <td>Mandeep Narula</td>
-  <td>Shivaji Tyagi</td>
-</tr><tr>
+    <td>Atul Kumar</td>
+</tr><tr>		
+
+  <td>Hemant Kumar</td>
+  <td>Shruti Kalra</td>
+    <td>Juhi Gupta</td>
+</tr><tr>	
+
   <td>Abhishek Kashyap</td>
-  <td>Jyoti Vyas</td>
-  <td>Deeksha Chandola</td>
-</tr><tr>
   <td>Yogesh Kumar</td>
+    <td>Bhagirath Sahu </td>
+</tr><tr>		
+ <td> Rachna Singh</td>
+  <td>Amit Kumar Goyal</td>  
+  <td>Neetu Joshi</td>
+</tr><tr>		
+  <td>Neetu Singh</td>
+    <td>Ajay Kumar</td>
+  <td>Akansha Bansal</td>
+
+</tr><tr>	
+   <td>Ruby Beniwal</td>
+  <td>Bhawna Gupta</td>
+  <td>Smriti Bhatnagar</td> 
+
+</tr><tr>	
+
+      <td>Atul Kumar Srivastava</td>
+  <td>B. Suresh</td>
+  <td>Monika</td>
+
+</tr><tr>		
+    <td>Vinay Anand Tikkiwal</td>
+  <td>Priyanka Kwatra</td>
+  <td>Shradha Saxena</td>
+
+
+</tr><tr>	
+  
+    <td>Vishal Narain Saxena</td>
+  <td>Ankur Bhardwaj</td>
+  <td>Shivaji Tyagil</td>
+
+</tr><tr>	
+  <td>Jyoti Vyas</td>
+  <td>Mandeep Narula</td>  
   <td>Ritesh Kumar Sharma</td>
-  <td>Ruby Beniwal</td>
-</tr><tr>
-  <td>Amit Kumar Goyal</td>
+
+
+</tr><tr>	
   <td>Varun Goel</td>
   <td>Abhay Kumar</td>
-</tr><tr>
-  <td>Ajay Kumar</td>
-  <td>Gopal Rawat</td>
-  <td>Neetu Joshi</td>
-</tr><tr>
-  <td>Bhagirath Sahu</td>
-  <td>Hemant Kumar</td>
-  <td>Raghvendra Kumar Singh</td>
+  <td>Raghavenda Kumar Singh</td>
+  
+</tr><tr>	
+    <td>Madhu Jhariya</td>
+  <td>Nitesh Kumar</td> 
+  <td>Vimal Saini</td> 
+
 </tr><tr>
   <td>Chandan Kumar</td>
-  <td>Dharmendra Kumar Jhariya</td>
-  <td>Madhu Jhariya</td>
-</tr><tr>
-  <td>Nitesh Kumar</td>
-  <td>Prabhakar Jha</td>
-  <td>Vimal Saini</td>
-</tr><tr>
+  <td>Deepak Kumar</td>  
   <td>Rahul Kumar</td>
-  <td>Rachna Singh</td>
-  <td>Ankit Garg</td>
-</tr><tr>
-  <td>Deepak Kumar</td>
-  <td> Kapil Dev Tyagi</td>
-  <td>Atul Kumar</td>
-</tr><tr>
-  <td>B.Suresh</td>
-  <td>Sajal Agarwal</td>
+
+</tr>
+<tr>
+
   <td>Nisha Venkatesh</td>
-</tr><tr>
-  <td>Akansha Bansal</td>
-  <td>Sajal Agarwal</td>
-  <td>Nisha Venkatesh</td>
+  <td>Prabhakar Jha</td>
+ 
 </tr>
 </table>
 
@@ -183,7 +189,7 @@ table.reg_table td, th{
 </div>
 </div>
 </div>
-
+-->
 </body>
 
  <?php

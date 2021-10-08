@@ -23,9 +23,24 @@
     <?php
     include "header.php";
     ?>
+          <marquee class="marquee" width="60%" direction="right" height="100px">
+To Be Updated
+</marquee>
+<style>
+      .marquee{
+      font-size: 50px;
+      font-weight: 800;
+      color: #8ebf42;
+      font-family: sans-serif;
+      }
+    </style>
+    <!--
     <div class="container" style="position: relative;  z-index: -1;">
     <div class="about1">
+
+    -->
         <!-- <center><h3 style="font-size: 10 !important;" class="name">CONFERENCE PATRONS</h3></center>    -->
+       <!--
         <hr>
         <div class="row context">
             <div class="col-sm-8 data" style="text-align: center !important;">
@@ -78,7 +93,7 @@
         </div>
         
     </div>
-    
+    -->
 </body>
 <?php
 include "footer.php";

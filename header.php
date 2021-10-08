@@ -12,7 +12,6 @@
       />
     </center>
   </div>
-
   <!-- <div class="col-sm-9">
     <div class="row">
       <div class="col-sm-4">
@@ -56,11 +55,10 @@
       <center>
         <div style="margin-left: 0px">
           <h4 style="text-align: center; color:black; margin-top: 30px; font-size: 20px; color: #8A0A25;">
-            2020 6<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION
+             7<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION 2021
           </h4>
-
           <h4 style="text-align: center; color:#404040;margin-top: 10px; vertical-align: middle; font-size: 21px;">
-            (ICSC-2020)<br/><br>March 5<sup>th</sup>-7<sup>th</sup>, 2020
+            (ICSC 2021)<br/><br>November 25<sup>th</sup>-27<sup>th</sup>, 2021
           </h4>
         
           <h4 style="text-align: center; color:#404040;margin-top: 10px; font-size: 16px;">
@@ -71,6 +69,28 @@
             Jaypee Institute of Information Technology, Noida (INDIA)
           </h4>
 
+          <h4 style="text-align: center; color:#404040;margin-top: 10px; font-size: 16px;">
+           IEEE Conference Record No : 53193<br><br>
+          </h4>
+          
+<h4>Conference will be held in <span id="blink" >
+  HYBRID&nbspMODE
+           </span></h4>
+               <style>
+        #blink {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2d38be;
+            transition: 0.2s;
+        }
+    </style>
+           <script type="text/javascript">
+        var blink = document.getElementById('blink');
+        setInterval(function() {
+            blink.style.opacity = (blink.style.opacity == 0 ? 1 : 0);
+        }, 1500);
+    </script>
+<br>
           <h4 style="text-align: center; color:#404040;margin-top: -10px; font-size: 15px;">
             <marquee><b>Deemed To be University Under Section 3 of UGC Act 1956</b></marquee>
           </h4>
@@ -89,6 +109,7 @@
               " />
         </centre>
     </div>
+  
   </div>
 
 </div>
@@ -113,7 +134,7 @@
           <ul class="dropdown-menu" style="z-index: 50;">
             <li><a href="instructions.php">Instructions</a></li>
             <li><a href="scope.php">Scope</a></li>
-            <li><a href="https://edas.info/N26221" target="blank">Paper Submission</a></li>
+            <li><a href="https://edas.info/N28317" target="blank">Paper Submission</a></li>
             <li><a href="guidelines.php">Author Guidelines &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
           </ul>
         </li>
@@ -121,7 +142,8 @@
         <li style="margin-left: 10px;"><a href="registration.php">REGISTRATION</a></li>
         <li class="dropdown" style="margin-left: 20px;z-index: 50;"><a class="dropdown-toggle" data-toggle="dropdown" href="#">COMMITTEES<span class="caret"></span></a>
           <ul class="dropdown-menu" style="z-index: 50;">
-            <li><a href="advisory_committee.php">Advisory Committee</a></li>
+            <li><a href="oversight_committee.php">IEEE Oversight Committee</a></>
+            <li><a href="advisory_committee.php">Advisory Committee</a></>
             <li><a href="tpc.php">Technical Program Committee</a></li>
             <li><a href="organizing.php">Organizing Committee</a></li>
           </ul>

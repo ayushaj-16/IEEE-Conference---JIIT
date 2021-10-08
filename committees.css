@@ -21,32 +21,41 @@ h1,h2,h3,h4,h5,h6,p{
     font-family: 'Cabin', arial, sans-serif;
     word-spacing: 1px;
     letter-spacing: 1px;
+    align-items: center;
 }
 
 .about .name{
     font-weight: 100;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 50px;
 }
 
 .context{
-    display: flex;
+    display:initial;
     justify-content: space-around;
       flex-wrap: wrap;
-}
-
-.data{
-    width: 30%;
-    margin: 0px 1.5%;
-    height: 12%;
+        width: 70%;
+    margin: 50px ;
+    height: 30%;
     justify-content: space-around;
     margin-bottom: 35px;
+ align-content: initial;
+text-align: initial;
+
+}
+.data{
+    width: 70%;
+    margin: 50px ;
+    height: 30%;
+    justify-content: space-around;
+    margin-bottom: 35px;
+ align-content: initial;
+text-align: initial;
 }
 
 .context .data  h3{
     font-weight: 100;
     text-align: center;
-    margin: 25px 0px ;
 }
 
 .context .data p{

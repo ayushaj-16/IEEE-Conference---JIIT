@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ICSC-2019</title>
+    <title>ICSC-2021</title>
     <link rel="stylesheet" href="call_for_papers.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -19,7 +19,18 @@
     
     <?php
     include "header.php";
-    ?>
+    ?>      <marquee class="marquee" width="60%" direction="right" height="100px">
+To Be Updated
+</marquee>
+<style>
+      .marquee{
+      font-size: 50px;
+      font-weight: 800;
+      color: #8ebf42;
+      font-family: sans-serif;
+      }
+    </style>
+    <!--
     <div class="container" style="position: relative;  z-index: -1;"> 
         
     <div class="about">
@@ -89,7 +100,7 @@
 </div>
 
     
-    
+    -->
 </body>
 
 <?php

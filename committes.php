@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ICSC-2020</title>
+    <title>ICSC-2021</title>
     <link rel="stylesheet" href="committees.css">
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -16,7 +16,18 @@
     }</style>
 </head>
 <body>
-     
+      <marquee class="marquee" width="60%" direction="right" height="100px">
+To Be Updated
+</marquee>
+<style>
+      .marquee{
+      font-size: 50px;
+      font-weight: 800;
+      color: #8ebf42;
+      font-family: sans-serif;
+      }
+    </style>
+    <!--
     <div class="container" style="position: relative;  z-index: -1;">
     <div class="about">
         
@@ -283,6 +294,7 @@
         
     </div>
     </div>
+    -->
 </body>
  
 </html>

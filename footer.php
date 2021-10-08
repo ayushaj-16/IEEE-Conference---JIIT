@@ -6,6 +6,7 @@
 				<td colspan="5"><center><b>Previous ICSC Conferences</b></center></td>
 			</tr>
 			<tr>
+			<td><center><a href="ICSC20/">ICSC-2020</a>&emsp;</center></td>
 				<td><center><a href="ICSC19/">ICSC-2019</a>&emsp;</center></td>
 				<td><center><a href="ICSC19/ICSC/">ICSC-2018</a>&emsp;</center></td>
 				<td><center><a href="ICSC19/ICSC/icsc2016/">ICSC-2016</a>&emsp;</center></td>
@@ -42,8 +43,8 @@
 		<hr style="margin-left: 20px; margin-right: 10px">
 		<br>
        <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a href="registration.php">
-				<button class="btn btn-success" style="display: flex; justify-content: center ">Register Now</button>
+            <a class="btn btn-success btn-sm" href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none;">
+				Register Now
 			</a>
 		</div>
 
@@ -58,18 +59,17 @@
 </div>
 
 <div class="col-sm-3" style="position: relative    font: 'Cabin',sans-serif;  word-spacing: 1px;  letter-spacing: 1px;"><center>
-	<h4>Brochure</h4>
+	<h4>Program plan</h4>
 	<hr style="margin-left: 20px; margin-right: 10px">
 	<br>
 <!--        <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
             <a href="ICSC 2019 Brochure.pdf" target="blank"><button class="btn btn-success" style="display: flex; justify-content: center ">Brochure</button></a></div>
 -->
         <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a href="coming_soon.php"><button class="btn btn-success" style="display: flex; justify-content: center ">Coming Soon</button></a></div>
+            <a href="Program plan of ICSC-2020.pdf" class="btn btn-success" style="text-decoration: none" disabled>Program plan</a></div>
 </center></div>
 
-
-<div class="col-sm-4" style="position: relative    font: 'Cabin',sans-serif; word-spacing: 1px;  letter-spacing: 1px;">
+<div class="col-sm-4" style="position: relative; font: 'Cabin',sans-serif; word-spacing: 1px;  letter-spacing: 1px">
 	<center>
 	<h4>Contact Us</h4></center>
 	<hr style="margin-left: 20px; margin-right: 10px">
@@ -89,8 +89,8 @@
 		<h5>Copyright © JIIT </h5>
 	</center>
 	<center>
-		Design and Developed by <a href="https://www.facebook.com/ahjn20">Avinash Jain </a>and 
-		<a href="https://www.linkedin.com/in/keshav-bathla-b517a2152/">Keshav Bathla</a></center>	
+		Design and Developed by <a href="#">Srijan Bharadwaj</a> and <a href="https://www.linkedin.com/in/ayushaj/">Ayush Jaiswal</a>
+
 </div>
 
 </footer>

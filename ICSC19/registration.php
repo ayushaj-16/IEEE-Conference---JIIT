@@ -136,16 +136,13 @@ table.reg_table td, th{
             <p><font size="4">Funds Transfer (Within India):</font></p>
             The Participant/Author can pay the registration fee through Funds Transfer.<br><br>
             The Funds Transfer may be made to the following Bank:<br>
-            Bank account in the name of: Jaypee Institute of Information Technology University<br>
+            Bank account in the name of: Jaypee Institute of Information Technology <br>
             Bank Name: IDBI Bank Ltd.<br>
             Address of Bank: Ground Floor Ocean Complex, P-6, Sector-18, Noida, Uttar Pradesh 201301<br>
             Account Type: Current<br>
             Account Number: 109102000007436<br>
             IFSC Code: IBKL0000109<br>
             MICR Code: 110259011<br>
-            Phone No.: (+91)-120-2517812/14/15<br>
-            Fax: (+91)-120-2517813<br>
-            E-Mail: avnish.sidhu@idbi.co.in
         </td>
     </tr>
     <tr>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ICSC-2020</title>
+    <title>ICSC-2021</title>
     <link rel="stylesheet" href="registration.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -30,14 +30,14 @@
         
         
         
-        <h2 class="name">Dr. Vikram Karwal</h2>
+        <h2 class="name">Dr. Jitendra Mohan </h2>
         
         <p>Associate Professor</p>
         <p>Department of Electronics & Communication</p>
-        <p>JIIT, A-10, Sector-62</p>
-        <p>Noida - 201309, India</p>
-        <p>Email: vikram.karwal@jiit.ac.in</p>
-        <p>Phone: (+91)-120-2594322 (Office), (+91)-9717652233 (Mobile)</p>
+        <p>Jaypee Institute of Information Technology </p>
+        <p>Noida, Uttar Pradesh, India </p>
+        <p>Email: jitendra.mohan@jiit.ac.in </p>
+        <p>Phone: (+91)-120-4195865 (Office), (+91)-9910909863 (Mobile) </p>
       <br>
        <br>
         
