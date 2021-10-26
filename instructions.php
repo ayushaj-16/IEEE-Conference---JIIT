@@ -46,14 +46,15 @@
            <p><b>Important Dates:</b><br>
            <!--<font style="color: #FF0000">Extended Date of Paper Submission: 15th January, 2019</font><br>-->
             <p>
-            <span style="color: red"> <b>Full Paper Submission Date</b></span>: <strike style="color:red">July 31, 2021</strike> <span>&nbsp September 10, 2021</span><br>
-           <b> Notification of Acceptance </b>: September 15, 2021<br>
-            <b>Final Paper Submission</b>: October 25, 2021<br>
-            <b>Session Plan </b>:        <a href='#'>Session Plan</a>
+            <span style="color: red"> <b>Full Paper Submission </b></span>: <strike style="color:red"> CLOSED</strike> <br>
+           <b> Notification of Acceptance </b>: <strike style="color:red"> CLOSED</strike> <br>
+            <b>Registration</b>: October 25, 2021<br>
+            <b>Late Registration</b>: November 8, 2021 (with late registration fee)<br>
+            <b>Session Plan </b>: To Be Updated
             </p>
 
            
-           <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="https://edas.info/N28317">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
+           <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="https://edas.info/N28317" style="pointer-events: none;">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
 
            <!--  <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="coming_soon.php">here</a>. Unregistered authors should first create an account on EDAS to log on.</p> -->
 <!--

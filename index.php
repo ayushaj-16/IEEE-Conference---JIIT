@@ -210,7 +210,7 @@ setInterval(blinker, 1000);
       <br>
       <center><h3>Important Dates</h3></center>
       
-      <marquee style="color:red"><b>Deadline Extended for Full Paper Submission</b></marquee>
+      <marquee style="color:red"><strike style="color:red;text-decoration:line-through"><b>Deadline Extended for Full Paper Submission</b></strike></marquee>
       <table>
 <!--            <tr>
                 <td><font style="color: #ff0000">Extended Date of Full Paper<br> Submission</font></td>
@@ -223,19 +223,26 @@ setInterval(blinker, 1000);
 -->
             <tr>
                 <td style="color: red">  Full Paper Submission </td>
-                <td>: <strike style="color:red;text-decoration:line-through">July 31, 2021</strike> <span>&nbsp September 10, 2021</span></td>
+                <td>: <strike style="color:red;text-decoration:line-through">CLOSED</strike></td>
             </tr>
             <tr>
-                <td>Notification of Acceptance </td>++
-                <td>: September 15,2021</td>
+                <td>Notification of Acceptance </td>
+                <td>: <strike style="color:red;text-decoration:line-through">CLOSED</strike></td>
+            </tr>
+            
+            <tr>
             </tr>
             <tr>
-                <td>Final Paper Submission</td>
+                <td>Registration</td>
                 <td>: October 25, 2021</td>
+            </tr>
+            <tr>
+                <td>Registration with Late Fee</td>
+                <td>: November 8, 2021</td>
             </tr>
            <tr>
               <td>Link For Paper Submission</td>
-              <td>: &nbsp &nbsp &nbsp &nbsp<a href='https://edas.info/N28317'>Click Here</a></td>
+              <td>: &nbsp &nbsp &nbsp &nbsp<a href='https://edas.info/N28317' style="pointer-events: none;">Click Here</a></td>
             </tr>
             <tr>
               <td>Session plan</td>

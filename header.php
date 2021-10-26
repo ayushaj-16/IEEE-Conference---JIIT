@@ -55,7 +55,7 @@
       <center>
         <div style="margin-left: 0px">
           <h4 style="text-align: center; color:black; margin-top: 30px; font-size: 20px; color: #8A0A25;">
-             7<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION 2021
+             7<sup>th</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION 2021
           </h4>
           <h4 style="text-align: center; color:#404040;margin-top: 10px; vertical-align: middle; font-size: 21px;">
             (ICSC 2021)<br/><br>November 25<sup>th</sup>-27<sup>th</sup>, 2021
@@ -134,7 +134,7 @@
           <ul class="dropdown-menu" style="z-index: 50;">
             <li><a href="instructions.php">Instructions</a></li>
             <li><a href="scope.php">Scope</a></li>
-            <li><a href="https://edas.info/N28317" target="blank">Paper Submission</a></li>
+            <li><a href="https://edas.info/N28317" style="pointer-events: none;">Paper Submission</a></li>
             <li><a href="guidelines.php">Author Guidelines &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
           </ul>
         </li>
