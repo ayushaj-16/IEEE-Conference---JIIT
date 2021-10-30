@@ -95,7 +95,7 @@ setInterval(blinker, 1000);
     		<h3>
     		<center><font color="red">Technically Co-sponsored by IEEE UP Section.</font></center>
    		<center><font size="4">All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings (IEEE Conference Record No : 53193)</font></center>
-   			<center><font size="3">Conference will be held in Hybrid Mode (with provision for in person and online presentation).</font></center>
+   			<center><font size="3">Conference will be held in Online Mode (Virtual)</font></center>
        	</h3>
     	</marquee>
     </div>
@@ -113,7 +113,7 @@ setInterval(blinker, 1000);
 
     <div class="col-sm-6 about">
        <br>
-        <h2 >ICSC-2021</h2>
+        <h2 >ICSC 2021</h2>
         <br>
         <div>
           <p>Signal processing consists of representation and transformation of signals and the information that they carry. Over the years, signal processing has immensely developed to provide phenomenal growth in the area of microchips, digital systems and computer hardware.</p><br/>

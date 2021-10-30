@@ -34,8 +34,7 @@
             <p>The objective of the conference is to promote high quality research and to provide a forum for presentation of new advances and research results in the field of <b>Signal Processing, Communication, VLSI Technology & Embedded Systems.</b></p>
 
             <p>The conference is <font color="red" size="3"><b>Technically Co-sponsored by IEEE UP Section.</b></font>
-            You are cordially invited to submit your original research contributions in this conference. Papers will be reviewed by renowned experts in their field.</p>
-            <p><b><i>Conference will be held in Hybrid Mode with provision for in person and online presentation</i></b></p> 
+            You are cordially invited to submit your original research contributions in this conference. Papers will be reviewed by renowned experts in their field.</p> 
             <p>Only the registered author with full registration fees should present the paper.</p>
 
 
