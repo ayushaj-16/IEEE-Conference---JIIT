@@ -72,6 +72,10 @@
           <h4 style="text-align: center; color:#404040;margin-top: 10px; font-size: 16px;">
            IEEE Conference Record No : 53193<br><br>
           </h4>
+          
+<h4>Conference will be held in <span id="blink" >
+Online Mode (Virtual)
+           </span></h4>
                <style>
         #blink {
             font-size: 20px;

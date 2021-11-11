@@ -66,7 +66,7 @@
             <a href="ICSC 2019 Brochure.pdf" target="blank"><button class="btn btn-success" style="display: flex; justify-content: center ">Brochure</button></a></div>
 -->
         <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a href="Program plan of ICSC-2020.pdf" class="btn btn-success" style="text-decoration: none" disabled>Program plan</a></div>
+            <a href="PROGRAM PLAN.pdf" class="btn btn-success" style="text-decoration: none">Program plan</a></div>
 </center></div>
 
 <div class="col-sm-4" style="position: relative; font: 'Cabin',sans-serif; word-spacing: 1px;  letter-spacing: 1px">

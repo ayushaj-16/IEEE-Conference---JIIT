@@ -95,7 +95,8 @@ setInterval(blinker, 1000);
     		<h3>
     		<center><font color="red">Technically Co-sponsored by IEEE UP Section.</font></center>
    		<center><font size="4">All the selected papers that are presented in the conference will be considered for publication in IEEE Xplore Proceedings (IEEE Conference Record No : 53193)</font></center>
-   			<center><font size="3">Conference will be held in Online Mode (Virtual)</font></center>
+         
+         <center><font size="3"><a href="PROGRAM PLAN.pdf">Program Plan</a> and <a href='Session plan ICSC 2021.pdf'>Session Plan</a> of ICSC 2021</font></center>
        	</h3>
     	</marquee>
     </div>
@@ -240,17 +241,25 @@ setInterval(blinker, 1000);
                 <td>Registration with Late Fee</td>
                 <td>: November 8, 2021</td>
             </tr>
-           <tr>
-              <td>Link For Paper Submission</td>
-              <td>: &nbsp &nbsp &nbsp &nbsp<a href='https://edas.info/N28317' style="pointer-events: none;">Click Here</a></td>
-            </tr>
             <tr>
               <td>Session plan</td>
-              <td>: &nbsp &nbsp<a href='#'></a>To Be Updated</td>
+              <td>: &nbsp &nbsp &nbsp &nbsp<span id="blink2" ><a href='Session plan ICSC 2021.pdf'>Click Here</a></span></td>
+              <style>
+        #blink2 {
+            font-size: 20px;
+            color: #2d38be;
+            transition: 0.2s;
+        }
+    </style>
+           <script type="text/javascript">
+        var blink2 = document.getElementById('blink2');
+        setInterval(function() {
+            blink2.style.opacity = (blink2.style.opacity == 0 ? 1 : 0);
+        }, 1000);
+    </script>
             </tr>
 
         </table>
-        
         <center><h3>Conference Organizers</h3></center>
         <table>
           <tr>
