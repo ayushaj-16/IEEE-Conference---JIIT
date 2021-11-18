@@ -43,7 +43,7 @@
 		<hr style="margin-left: 20px; margin-right: 10px">
 		<br>
        <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a class="btn btn-success btn-sm" href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none;">
+            <a class="btn btn-success btn-sm" disabled href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none;">
 				Register Now
 			</a>
 		</div>
@@ -66,7 +66,7 @@
             <a href="ICSC 2019 Brochure.pdf" target="blank"><button class="btn btn-success" style="display: flex; justify-content: center ">Brochure</button></a></div>
 -->
         <div class="btn-group btn-group-lg" style="display: flex; align-items: center; justify-content: center; height: 100%">
-            <a href="PROGRAM PLAN.pdf" class="btn btn-success" style="text-decoration: none">Program plan</a></div>
+            <a href="PROGRAM PLAN.pdf" target ="_blank" class="btn btn-success" style="text-decoration: none">Program plan</a></div>
 </center></div>
 
 <div class="col-sm-4" style="position: relative; font: 'Cabin',sans-serif; word-spacing: 1px;  letter-spacing: 1px">

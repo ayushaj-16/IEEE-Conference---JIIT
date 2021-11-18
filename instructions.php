@@ -34,7 +34,8 @@
             <p>The objective of the conference is to promote high quality research and to provide a forum for presentation of new advances and research results in the field of <b>Signal Processing, Communication, VLSI Technology & Embedded Systems.</b></p>
 
             <p>The conference is <font color="red" size="3"><b>Technically Co-sponsored by IEEE UP Section.</b></font>
-            You are cordially invited to submit your original research contributions in this conference. Papers will be reviewed by renowned experts in their field.</p> 
+            You are cordially invited to submit your original research contributions in this conference. Papers will be reviewed by renowned experts in their field.</p>
+            <p><b><i>Conference will be held in Online Mode. </i></b></p> 
             <p>Only the registered author with full registration fees should present the paper.</p>
 
 
@@ -45,13 +46,18 @@
            <p><b>Important Dates:</b><br>
            <!--<font style="color: #FF0000">Extended Date of Paper Submission: 15th January, 2019</font><br>-->
             <p>
-            <span style="color: red"> <b>Full Paper Submission </b></span>: <strike style="color:red"> CLOSED</strike> <br>
-           <b> Notification of Acceptance </b>: <strike style="color:red"> CLOSED</strike> <br>
-            <b>Registration</b>: October 25, 2021<br>
-            <b>Late Registration</b>: November 8, 2021 (with late registration fee)<br>
-            <b>Session Plan </b>: To Be Updated
+            <span> <b>Full Paper Submission </b></span>:<span style="color: red"> CLOSED</span> <br>
+            <b> Notification of Acceptance </b>: <span style="color: red"> CLOSED</span> <br>
+            <b>Registration</b>:<span style="color:red "> CLOSED</span><br>
+            <b>Session Plan </b>: <span id="blink2" ><a href='Session plan ICSC 2021.pdf'> Click Here</a></span></a>
             </p>
-
+          <style>
+        #blink2 {
+            font-size: 20px;
+            color: #2d38be;
+            transition: 0.2s;
+        }
+    </style>
            
            <p><b>Link for Paper Submission:</b><br> Authors should submit their papers online <a href="https://edas.info/N28317" style="pointer-events: none;">here</a>. Unregistered authors should first create an account on EDAS to log on.</p>
 

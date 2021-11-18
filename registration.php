@@ -32,10 +32,10 @@
          <div style="display: flex; justify-content: space-between;">
             <h2 class="name"><b>REGISTRATION DETAILS</b></h2>
             <div style="margin-top:14px">
-            <a class="btn btn-success btn-sm" href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none;">
+            <a class="btn btn-success btn-sm" disabled href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none; ">
 				Registration Form Download
 			</a>
-            <a class="btn btn-danger btn-sm" href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none;">
+            <a class="btn btn-danger btn-sm" disabled href="https://forms.gle/VrqDoVzG9GVgqC3E9" style="text-decoration: none;">
 				Register Now
             </a>
             
@@ -169,18 +169,15 @@
 
          </table>
          <br>
-            <h4 style="margin-left: 10px;"><b>Late fees of INR 1000/ USD 35 will be applicable additionally for registration done after 25<sup>th </sup>October, 2021. </b></h4> 
-         
-
 
          <h3><b>Registration Instructions</b></h3>
          <div class="ins-data">
             <ul style="list-style-type: disc;">
 
-               <li>Kindly download and fill the <b><a href="Reg Form for Participants.pdf">Registration Form</a></b> and complete your registration through <b><a href="https://forms.gle/VrqDoVzG9GVgqC3E9">Register Now</a></b>, irrespective of the mode of payment before 8th November, 2021 (with late registration fee).  </li>
+               <li>Kindly download and fill the <b><a href="#" disabled>Registration Form</a></b> and complete your registration through <b><a href="#">Register Now</a></b>, irrespective of the mode of payment.  </li>
                <li>Kindly ensure that the Remitter's (Participant/Author) name and the Purpose of remittance (Registration Fees) are clearly mentioned by the Remitter in the Funds Transfer Application.</li>
                <li>All bank charges foreign/inland in connection with the registration fee remittance will be to the account of the Remitter. Shortage in the prescribed Fee amount (if any), on account of bank charges/short remittance received or credited to the Institute's account shall be borne by the Remitter. </li>
-               <li>Papers must be strictly checked through <b><a href="https://ieee-pdf-express.org">IEEE PDF express (Conference ID: 53193X)</a></b></b>. Final paper checked through IEEE pdf express must be uploaded through <b><a href="https://forms.gle/VrqDoVzG9GVgqC3E9">Register Now</a></b>. </li>
+               <li>Papers must be strictly checked through <b><a href="https://ieee-pdf-express.org">IEEE PDF express (Conference ID: 53193X)</a></b></b>. Final paper checked through IEEE pdf express must be uploaded through <b><a href="#">Register Now</a></b>. </li>
                <li>The electronic IEEE Copyright Form (eCF) will be used to transfer the copyright to IEEE. <b>The corresponding author will receive the link of eCF on registered email ID. </b></li>
                <li>For any query/help regarding registration, please feel free to contact <b>Dr. Ashish Goel</b> at <b>ashish.goel@mail.jiit.ac.in.</b></li>
             </ul>
@@ -207,8 +204,7 @@
             <ul style="list-style-type: disc;">
                <li>Authors/Participants have to register in order to attend the conference. </li>
                <li>For each accepted paper, it is mandatory for at least one author to register to include their paper in conference.</li>
-               <li>Late fees of INR 1000/ USD 35 will be applicable additionally for registration done after 25th October, 2021.</li>
-               <li>Authors/participants are also required to complete the registration through <b><a href="https://forms.gle/VrqDoVzG9GVgqC3E9">Register Now</a></b> before 8th November, 2021 (with late registration fee).</li>
+               <li>Authors/participants are also required to complete the registration through <b><a href="#">Register Now</a></b>.</li>
             </ul>
 
          </div>

@@ -224,26 +224,23 @@ setInterval(blinker, 1000);
 -->
             <tr>
                 <td style="color: red">  Full Paper Submission </td>
-                <td>: <strike style="color:red;text-decoration:line-through">CLOSED</strike></td>
+                <td style="color:red">: CLOSED</td>
             </tr>
             <tr>
                 <td>Notification of Acceptance </td>
-                <td>: <strike style="color:red;text-decoration:line-through">CLOSED</strike></td>
+                <td style="color:red">: CLOSED</td>
             </tr>
             
             <tr>
             </tr>
             <tr>
                 <td>Registration</td>
-                <td>: October 25, 2021</td>
+                <td style="color:red">: CLOSED </td>
             </tr>
-            <tr>
-                <td>Registration with Late Fee</td>
-                <td>: November 8, 2021</td>
-            </tr>
+
             <tr>
               <td>Session plan</td>
-              <td>: &nbsp &nbsp &nbsp &nbsp<span id="blink2" ><a href='Session plan ICSC 2021.pdf'>Click Here</a></span></td>
+              <td>: <span id="blink2" ><a href='Session plan ICSC 2021.pdf'>Click Here</a></span></td>
               <style>
         #blink2 {
             font-size: 20px;
