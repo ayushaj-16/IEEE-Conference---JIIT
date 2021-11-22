@@ -99,10 +99,9 @@ He was recipient of National Merit Scholarship, UGC Fellowship, Atomic Energy Co
 </div>
 
 <div class="col-sm-12" style="margin-bottom: 3rem"><br>
-    <button class="collapsible" style="background-color: #92c3ff; text-align:center"><h4 style="font-size: 20px;">Keynote Talk On:</h4><h4><span style="font-size: 19px;"><h5 style="display:inline;font-size: 16px;font-weight: 600;">"Adaptive signal decompositions for EEG signal processing"</h5></span></h4></button>
+    <button class="collapsible" style="background-color: #92c3ff; text-align:center"><h4 style="font-size: 20px;">Keynote Talk On:</h4><h4><span style="font-size: 19px;"><h5 style="display:inline;font-size: 16px;font-weight: 600;">"Information Elasticity and Metacognition in Sensor Systems"</h5></span></h4></button>
 <div class="content">
 <br>
-<p><strong>ABSTRACT: </strong>Generally, doctors or neurologists perform diagnosis of various brain disorders based on visual scanning of electroencephalogram (EEG) signals. This type of diagnosis approach requires lots of manual effort and time especially for long data recordings. Moreover, such a diagnosis procedure requires expertise and training. Due to these reasons, there is a lot of interest in the literature to develop automated techniques based on advanced signal processing and artificial intelligence methods in order to design intelligent systems/expert systems/computer-aided medical diagnosis systems. These developed systems are very helpful for early detection of various brain related disorders using EEG signals so that timely treatment can be provided. In addition, such automated systems can assist doctors or neurologists in their diagnosis. In this talk, advanced signal processing techniques like empirical wavelet transform and iterative filtering will be explained for automated diagnosis of epilepsy and schizophrenia diseases. </p>
 </div>
 </div>
 
@@ -197,7 +196,7 @@ antennas and its feed systems and metasurface antennas.
 
 </div>
 <div class="col-sm-12" style="margin-bottom: 3rem"><br>
-    <button class="collapsible" style="background-color: #92c3ff; text-align:center"><h4 style="font-size: 20px;">Keynote Talk On:</h4><h4><span style="font-size: 19px;"><h5 style="display:inline;font-size: 16px;font-weight: 600;">"Evolution of Optical Communication"</h5></span></h4></button>
+    <button class="collapsible" style="background-color: #92c3ff; text-align:center"><h4 style="font-size: 20px;">Keynote Talk On:</h4><h4><span style="font-size: 19px;"><h5 style="display:inline;font-size: 16px;font-weight: 600;">"Wavelength Division Multiplexing for Capacity upgradation of Optical Fiber Network"</h5></span></h4></button>
 <div class="content">
 <br>
 </div>
